@@ -25,7 +25,7 @@
   
   4,1 if error has occured ? 
 - [rejected] master -> master (fetch first)
-  > git push origin +master
+  > git push origin +master \ 
 
   5. Done 
     - Now I'm ther Master of Commit 
